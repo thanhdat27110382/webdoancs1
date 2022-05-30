@@ -1,0 +1,230 @@
+.anhlogo{
+    float:left;
+    }
+    .timkiem{
+        width: 500px;
+        height: 31px;
+        border: 3px solid black;
+    }
+    .timkiem2{     
+        width: 70px;
+        height: 40px;
+        color: #FFEFD5;
+        font-size: 17px;
+        background-color: coral;
+        border: 3px solid black;
+    }
+    .search_address{
+        text-align: center;
+    }
+    .indent{padding-left: 12em}
+    .icon{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:#00CCFF ;
+        width:100%;
+        height:55px;
+        font-size: 25px;
+    }
+    .active{
+        padding-left: 2em;
+    }
+    .text-decoration-none {
+        padding-left: 0.75em;
+        width: 130px;
+    }
+    li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: #FFEFD5;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color: rgb(171, 212, 248);
+      }
+      .tongdai{
+          padding-left: 2em;
+      }
+      ul.menu_child {
+          position: absolute;
+          width: 203px;
+          background-color: #00CCFF;
+          z-index: 9999;
+      }
+      ul.menu_child li {
+          padding: 15px 0 0 0;
+          display: none;
+          float:left;
+          text-align: right;
+          line-height: 10px;
+          font-size: 25px;
+      }
+      .muc ul li:hover ul.menu_child li {
+          display: block;
+      }
+      .logo3soc {
+          line-height: 55px;
+          padding-left: 0em;
+          padding-right: 0em;
+      }
+      .ti-menu-alt {
+          height: 55px;
+          width: 35px;
+      }
+      .banphim {
+          width: 100%;
+          display: flex;
+      }
+      .manhinh {
+          width: 100%;
+          display: flex;
+      }
+      .linhkien {
+          width: 100%;
+          display: flex;
+      }
+      .chuot{
+          width: 100%;
+          display: flex;
+      }
+      .taynghe {
+          width: 100%;
+          display: flex;
+      }
+      .giohang {
+        float:right;
+        margin-right: 0px;
+        line-height: 40px;
+        font-size: 18px;
+        display: flex;
+        margin-top: -3px;
+        margin-left: 15px;
+    }
+    .laptop {
+        display: block;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        height: 305px;
+        max-height: 363px;
+        background: white;
+    }
+    .product-row-name {
+        height: 35px;
+        font-size: 17px;
+        margin: 20px;
+    }
+    .product-row-price {
+        float:left !important;
+        margin-left: 20px;
+        font-size:17px;
+        margin-top: -24px;
+    }
+    .product-row-sale {
+        font-size: 23px;
+        color: #ed0000;
+        font-weight: 800;
+
+    }
+    .acer7 {
+        border: 1px solid black; 
+        width: 300px;
+        height: 350px;
+        margin-left: 165px;
+        margin-top: 5px;
+    }
+    .laptop1 {
+        width:100%;
+        display:flex;
+        margin-left: -12px;
+        margin-top: 0px;
+    }
+    .bravo {
+        border: 1px solid black; 
+        width: 300px;
+        height: 350px;
+        margin-left: 1px;
+        margin-top: 5px;
+    }
+    .laptopbanchay1 {
+        list-style-type: none;
+        padding: 0;
+        overflow: hidden;
+        background-color:#00CCFF ;
+        width:100%;
+        height:55px;
+        font-size: 17px;
+        text-align: left;
+        color: #FFEFD5;
+    }
+    div.laptop img:hover {
+        transform: scale(1.2)
+    }
+    div.laptop img {
+        transition: transform ease 0.6s;
+    }
+    .laptopbanchay {
+        list-style-type: none;
+        padding: 0;
+        overflow: hidden;
+        background-color:#00CCFF ;
+        width:100%;
+        height:55px;
+        font-size: 17px;
+        text-align: center;
+        color: #FFEFD5;
+    }
+    .banner {
+        margin-top: 5px;
+    }
+    .banner1 {
+        margin-top: -3.5px;
+    }
+    footer {
+        width: 100%;
+        height: 320px;
+        text-align:center;
+        padding:0;
+        margin: 0;
+        margin-top: 25px;
+        background-color:#F5F5F5;
+        color:black;
+    }
+    .end {
+        text-align:center;
+        width: 580px;
+        margin-left: 460px;
+    }
+    .vien {
+        margin-top: 25px;
+        margin-bottom: -25px;
+    }
+    .cuoicung {
+        width:100%;
+        display:flex;
+    }
+    .fb {
+        margin-top: -10px;
+    }
+    .youtube {
+        margin-top: -10px;
+        margin-left: 5px;
+    }
+    .instagram {
+        margin-top: -9px;
+        margin-left: 3px;
+    }
+    .mangxahoi {
+        display:flex;
+        margin-left: 690px;
+    }
+    .home {
+        padding-left: 1em;
+    }
